@@ -1,0 +1,8 @@
+{
+  "appId": "io.alecchan.lwm",
+  "appName": "listenwithme",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
